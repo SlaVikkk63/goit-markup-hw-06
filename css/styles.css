@@ -665,7 +665,7 @@ button{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #FFFFFF;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     
 }
 
@@ -785,7 +785,7 @@ button{
 .modal{
     position: absolute;
     width: 528px;
-    min-height: 581px;
+    height: 581px;
     background: #FFFFFF;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 4px;
@@ -885,9 +885,9 @@ margin-bottom: 12px;
     margin-bottom: 20px;
 }
 
-.modal-field-checkbox{
+/* .modal-field-checkbox{
     margin-bottom: 30px;
-}
+} */
 
 .modal-text{
     display: block;
